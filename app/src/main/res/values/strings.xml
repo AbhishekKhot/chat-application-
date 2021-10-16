@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="register">REGISTER</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="register_option">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="write_post_here">write post here</string>
+    <string name="post">POST</string>
+    <string name="logout">LOGOUT</string>
+    <string name="chat_app">Chat App</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="_100">100</string>
+    <string name="user_name">user name</string>
+    <string name="askfhsjdfoeiuriofnc_mvnlkfjjdskfhjkgqleie">askfhsjdfoeiuriofnc,mvnlkfjjdskfhjkgqleie</string>
+    <string name="upload_image_button">upload image</string>
+    <string name="todo">TODO</string>
+    <string name="choose_image">choose image</string>
+    <string name="upload">Upload</string>
+    <string name="name">name</string>
+    <string name="post_text">Post text</string>
+    <string name="like_count">like count</string>
+    <string name="time">time</string>
+
+</resources>
