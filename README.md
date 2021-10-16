@@ -1,5 +1,5 @@
 # chat-application-
-chat application using firebase 
+chat application using firebase (firebase firestore for saving text messages and for login/signup firebase auth and for firebase storage for uploading images)
 user can login using firebase auth both sign-in and login and logout functionality implemented using firebase auth 
 user can like post of the other user and shown in realtime in recyclerview with total no like on a particuler post 
 user also can upload the images implemented the functionality using firebase storage can shown in the view as user upload the images
